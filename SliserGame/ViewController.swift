@@ -61,7 +61,7 @@ class ViewController: UIViewController {
         
         countScore += currentScore
         
-        
+    
         round += 1
     
         newRound()
